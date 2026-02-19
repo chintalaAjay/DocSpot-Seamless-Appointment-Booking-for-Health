@@ -106,11 +106,13 @@ npm start
 cd frontend
 npm install
 npm start
-Visit: http://localhost:3000
+Visit: [http://localhost:3000](http://localhost:3000)
+
 
 🌍 Live Demo
-🔗 Try the App:
-https://docspot-deployment.vercel.app/
+
+🔗 **Try the App:** [https://docspot-deployment.vercel.app/](https://docspot-deployment.vercel.app/)
+
 
 🔮 Future Enhancements
 🎥 Video Consultation
